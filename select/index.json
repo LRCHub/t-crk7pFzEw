@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "君セン！",
+  "base_artist": "iLiFE!",
+  "createdAt": "2025-12-04T04:51:51.793101Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "君セン！",
+      "artist": "iLiFE!",
+      "has_synced": false,
+      "path": "select/01_君セン!_iLiFE!.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君セン!",
+      "artist": "iLiFE!",
+      "has_synced": false,
+      "path": "select/pl_01_君セン!_iLiFE!.txt"
+    }
+  ]
+}
